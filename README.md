@@ -10,15 +10,14 @@ Wanderlust is a travel image gallery aimed at sharing dream destinations with de
 
 ## Preview and demo
 
-Check out a video preview of Wanderlust ✈️ or you can access [here](https://wanderlust-flame.vercel.app/)
+Check out a video preview of Wanderlust ✈️ or you can access <a href="https://wanderlust-flame.vercel.app" target="_blank">here</a>
+</br>
 
-https://github.com/emyslandim/wanderlust/assets/44002213/5fe886a2-8062-45c5-a15d-d7857cd503d7
-
-
+https://github.com/emyslandim/wanderlust/assets/44002213/49ad8c80-5731-4db9-9c67-50f60e9482a5
 
 
 
 
 ## Author
 
-This project was developed with ❤️ by [emyslandim](https://github.com/emyslandim).
+This project was developed with ❤️ by <a href="https://github.com/emyslandim" target="_blank">emyslandim</a>.
