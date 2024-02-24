@@ -1,6 +1,6 @@
 # Wanderlust - Travel Gallery 🌍📸
 
-Wanderlust is a travel image gallery aimed at sharing dream destinations with descriptions of each place.
+Wanderlust is a travel image desktop gallery aimed at sharing dream destinations with descriptions of each place.
 
 ## Stacks Used
 
